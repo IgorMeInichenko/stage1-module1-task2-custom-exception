@@ -3,6 +3,7 @@ package com.epam.mjc;
 
 import java.util.Arrays;
 
+
 public enum Student {
 
   MAX(1, "Max", 15),
